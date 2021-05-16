@@ -9,7 +9,7 @@ export default props => {
     if(props.oper) tipo.push(Estilo.oper);
 
     return(
-        <TouchableOpacity style={Estilo.touch} onPress={props.onPress}>
+        <TouchableOpacity style={Estilo.touch} onPress={props.onPress} >
                 <Text style={tipo}>{props.char}</Text>
         </TouchableOpacity>
     )
