@@ -1,4 +1,4 @@
-# [:hammer_and_wrench: Working..] SimpleCalculator
+# 📱 Simple Calculator
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joabehenrique/simple-calculator?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/joabehenrique/simple-calculator?style=flat)
@@ -6,47 +6,55 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joabehenrique/simple-calculator?style=flat)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joabehenrique/simple-calculator?style=flat)
 
-> Simple project developed ...
+> Project focused on learning how to develop an application in React Native.
+
+>The project has the idea of taking the input values and performing arithmetic operations according to the user's decision.
 
 ## 💻 Requirements
 
 Before you begin, make sure you have met the following requirements:
 
-- You need the latest version of `...` on your machine.
+- You need the latest version of `Node`, `Python3`, `Java JDK` and `Android Studio` on your machine.
 
-If you need installation instructions, [click here]("...").
+If you need installation instructions, [click here](https://reactnative.dev/docs/environment-setup).
 
-## 🚀 Installing ...
+## 🚀 Installing Simple Calculator
 
-To install ..., follow these steps:
+To install Simple Calculator, follow these steps:
 
 1º Clone the repository.
 
 ```
 >  git clone https://github.com/joabehenrique/simple-calculator.git
 ```
-
-## ☕ Using ...
-
-To use ..., follow these steps:
-
+2º Run command
 ```
-Project focused on learning how to develop an application in React Native.
+> npm install
 
-The project has the idea of taking the input values and performing arithmetic operations according to the user's decision.
+> npm start
+
+> npm run android
 ```
 
-## 📫 Contributing to Exlivery
+## ☕ Using Simple Calculator
 
-To contribute to Exlivery, follow these steps:
+To use Simple Calculator, follow these steps:
+
+```
+With the project running on your android emulator, you can perform mathematical operations, such as addition, subtraction, division, and multiplication. 
+```
+
+## 📫 Contributing to Simple Calculator
+
+To contribute to Simple Calculator, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <nome_branch>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Send to the original branch: `git push origin Exlivery / <local>`
+4. Send to the original branch: `git push origin Simple Calculator / <local>`
 5. Create the pull request.
 
-Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)..
+Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ## 🤝 Author and Contributors
 
@@ -72,5 +80,3 @@ Do you want to be part of this project? Click [here](https://github.com/joabehen
 ## 📝 License
 
 This project is under license. See the [license](https://github.com/joabehenrique/simple-calculator/blob/main/LICENSE.md) file for more details.
-
-[⬆ Back to top](#SimpleCalculator)<br>
