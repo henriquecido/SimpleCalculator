@@ -41,7 +41,8 @@ To install Simple Calculator, follow these steps:
 To use Simple Calculator, follow these steps:
 
 ```
-With the project running on your android emulator, you can perform mathematical operations, such as addition, subtraction, division, and multiplication. 
+With the project running on your android emulator, you can perform mathematical operations: 
+such as addition, subtraction, division, and multiplication. 
 ```
 
 ## 📫 Contributing to Simple Calculator
